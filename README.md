@@ -23,7 +23,7 @@ This project uses Machine Learning to detect fraudulent transactions using the R
 - Model Evaluation
 
 ## 🎯 Objective
-To identify fraudulent transactions using Machine Learning and improve fraud detection through classification techniques.
+To identify fraudulent transactions using Machine Learning and improve fraud detection through classification techniques..
 
 ## 👩‍💻 Author
 Akshaya
